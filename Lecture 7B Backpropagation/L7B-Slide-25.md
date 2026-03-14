@@ -91,7 +91,7 @@ $$\delta_j(n) = \frac{b}{a} [a - y_j(n)] [a + y_j(n)] \sum_{k} \delta_k(n) w_{kj
 Just like with the logistic function, we've successfully removed all complex calculus from the backpropagation update step. The computer only needs to use addition, subtraction, and multiplication on the outputs it already calculated during the forward pass.
 
 ---
-**Navigation**
+# **Navigation**
 [[L7B-Slide-24|Previous ← Local Gradient (Logistic)]]
 [[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-26|Next → The Momentum Term]]

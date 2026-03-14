@@ -14,6 +14,7 @@ for all $j\ne k$
 
 where $F_{k}(x)$ and $F_{j}(x)$ are the function values for the mapping function $F(x)$.
 
+\
 34/39
 
 ---
