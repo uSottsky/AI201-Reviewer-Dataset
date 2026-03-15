@@ -15,5 +15,5 @@
 ---
 **Navigation**
 [[L7B-Slide-06|Previous ← The Activation Function]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-08|Next → MLP Nonlinear Mapping]]

@@ -24,5 +24,5 @@ Generalization is influenced by the following factors:
 ---
 **Navigation**
 [[L7B-Slide-35|Previous ← Convergence]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-37|Next → Training Set Size]]

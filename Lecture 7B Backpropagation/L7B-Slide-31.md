@@ -24,5 +24,5 @@
 ---
 **Navigation**
 [[L7B-Slide-30|Previous ← Backpropagation Algorithm Steps 4-10]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-32|Next → Heuristics (Data Normalization)]]

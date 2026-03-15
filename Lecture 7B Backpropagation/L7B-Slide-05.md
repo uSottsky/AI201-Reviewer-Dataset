@@ -16,5 +16,5 @@ where a new synapse whose input is $x_{0}=+1.0$ and whose weight is $w_{k0}=b_{k
 ---
 **Navigation**
 [[L7B-Slide-04|Previous ← Neuron Mathematical Model]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-06|Next → The Activation Function]]

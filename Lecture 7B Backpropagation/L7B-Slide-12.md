@@ -18,5 +18,5 @@
 ---
 **Navigation**
 [[L7B-Slide-11|Previous ← BP Derivation Output vs Hidden]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-13|Next → Output Neuron Error]]

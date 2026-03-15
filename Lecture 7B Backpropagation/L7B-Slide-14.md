@@ -55,7 +55,7 @@ $$\mathcal{E}_{av} = \frac{1}{2N} \sum_{n=1}^{N} \sum_{j \in C} e_j^2(n)$$
 ---
 # **Navigation**
 [[L7B-Slide-13|Previous ← Output Neuron Error]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-15|Next → Output Neuron Activation]]
 
 ---

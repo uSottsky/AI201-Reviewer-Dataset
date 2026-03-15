@@ -10,4 +10,4 @@
 ---
 **Navigation**
 [[L7B-Slide-38|Previous ← When to use MLP?]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]

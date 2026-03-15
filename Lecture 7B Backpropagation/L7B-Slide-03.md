@@ -19,5 +19,5 @@ Elements:
 ---
 **Navigation**
 [[L7B-Slide-02|Previous ← Error-Correction Learning]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-04|Next → Neuron Mathematical Model]]

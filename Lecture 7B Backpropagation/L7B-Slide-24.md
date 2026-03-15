@@ -58,5 +58,5 @@ To find the error gradients to update the network, a computer only needs to do b
 ---
 # **Navigation**
 [[L7B-Slide-23|Previous ← Logistic Function Nonlinearity]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-25|Next → Hyperbolic Tangent Nonlinearity]]

@@ -20,5 +20,5 @@ where $a$ is the slope parameter
 ---
 **Navigation**
 [[L7B-Slide-05|Previous ← Neuron Model with Bias Input]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-07|Next → Multilayer Perceptron (MLP)]]

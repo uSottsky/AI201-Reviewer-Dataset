@@ -80,5 +80,5 @@ Backpropagation relies on chaining fundamental derivative terms. Here is the ste
 ---
 # **Navigation**
 [[L7B-Slide-19|Previous ← Case 2: Hidden Neuron]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-21|Next → Hidden Neuron Delta]]

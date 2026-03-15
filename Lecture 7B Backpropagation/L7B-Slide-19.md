@@ -21,5 +21,5 @@ What is $\partial\mathcal{E}(n)/\partial y_{j}(n)$?
 ---
 **Navigation**
 [[L7B-Slide-18|Previous ← Local Gradient (Delta)]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-20|Next → Hidden Neuron Error Gradient]]

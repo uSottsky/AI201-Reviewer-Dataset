@@ -69,5 +69,5 @@ Large changes in $w_{ji}$ based purely on the local gradient can cause severe in
 ---
 # **Navigation**
 [[L7B-Slide-25|Previous ← Hyperbolic Tangent Nonlinearity]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-27|Next → Pattern and Batch Training]]

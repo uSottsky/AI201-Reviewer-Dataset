@@ -20,5 +20,5 @@ where $F_{k}(x)$ and $F_{j}(x)$ are the function values for the mapping function
 ---
 **Navigation**
 [[L7B-Slide-33|Previous ← Other Heuristics]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-35|Next → Convergence]]

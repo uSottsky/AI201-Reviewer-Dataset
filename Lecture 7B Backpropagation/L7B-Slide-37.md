@@ -21,5 +21,5 @@ with an error of 10%, the number of training examples should approximately be 10
 ---
 **Navigation**
 [[L7B-Slide-36|Previous ← Generalization]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-38|Next → When to use MLP?]]

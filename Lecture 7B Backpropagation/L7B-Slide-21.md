@@ -74,5 +74,5 @@ This final equation is the heart of **Backpropagation**. It proves mathematicall
 
 # **Navigation**
 [[L7B-Slide-20|Previous ← Hidden Neuron Error Gradient]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-22|Next → The Generalized Delta Rule]]

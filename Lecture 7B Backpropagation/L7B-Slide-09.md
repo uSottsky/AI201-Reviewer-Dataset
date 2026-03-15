@@ -17,5 +17,5 @@ Ref: Schmidhuber, J. (2015) Deep Learning in Neural Networks: An Overview, Neura
 ---
 **Navigation**
 [[L7B-Slide-08|Previous ← MLP Nonlinear Mapping]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-10|Next → Backpropagation Algorithm Derivation]]

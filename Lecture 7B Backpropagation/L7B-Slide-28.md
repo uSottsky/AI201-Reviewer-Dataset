@@ -22,5 +22,5 @@ After each learning iteration, the network is tested for its generalization perf
 ---
 **Navigation**
 [[L7B-Slide-27|Previous ← Pattern and Batch Training]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-29|Next → Backpropagation Algorithm Steps 1-3]]

@@ -17,5 +17,5 @@ where $\delta_{j}(n)$ is the **local gradient** defined as
 ---
 **Navigation**
 [[L7B-Slide-17|Previous ← Chain Rule Derivation]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-19|Next → Case 2: Hidden Neuron]]

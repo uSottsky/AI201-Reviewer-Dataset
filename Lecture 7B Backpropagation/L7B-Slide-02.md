@@ -21,5 +21,5 @@ objective of error-correction learning is to minimize a cost function based on $
 ---
 **Navigation**
 [[L7B-Slide-01|Previous ← Title]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-03|Next → Model of a Neuron]]

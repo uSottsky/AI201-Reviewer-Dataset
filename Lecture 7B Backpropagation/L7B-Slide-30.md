@@ -74,5 +74,5 @@ graph TD
 ---
 **Navigation**
 [[L7B-Slide-29|Previous ← Backpropagation Algorithm Steps 1-3]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-31|Next → Heuristics (Activation & Target)]]

@@ -94,5 +94,5 @@ Substitute this beautifully simplified piece back into our equation from Step 4.
 ---
 # **Navigation**
 [[L7B-Slide-22|Previous ← The Generalized Delta Rule]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-24|Next → Local Gradient (Logistic)]]

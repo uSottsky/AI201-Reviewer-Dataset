@@ -60,5 +60,5 @@ $$\frac{\partial\mathcal{E}(n)}{\partial w_{ji}(n)} = -e_j(n)\varphi^{\prime}(v_
 ---
 # **Navigation**
 [[L7B-Slide-16|Previous ← BP Instantaneous Gradient]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-18|Next → Local Gradient (Delta)]]

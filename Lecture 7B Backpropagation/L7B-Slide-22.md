@@ -18,5 +18,5 @@ The local gradient $\delta_{j}(n)$ depends on whether neuron $j$ is an output ne
 ---
 **Navigation**
 [[L7B-Slide-21|Previous ← Hidden Neuron Delta]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-23|Next → Logistic Function Nonlinearity]]

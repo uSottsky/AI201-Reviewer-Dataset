@@ -9,5 +9,5 @@
 ---
 **Navigation**
 [[L7B-Slide-10|Previous ← Backpropagation Algorithm Derivation]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-12|Next → Conventions and Notations]]

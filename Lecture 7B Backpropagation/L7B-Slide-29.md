@@ -23,5 +23,5 @@ For each training example, $[x(n), d(n)]$, perform steps 3 to 10:
 ---
 **Navigation**
 [[L7B-Slide-28|Previous ← Stopping Criteria]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-30|Next → Backpropagation Algorithm Steps 4-10]]

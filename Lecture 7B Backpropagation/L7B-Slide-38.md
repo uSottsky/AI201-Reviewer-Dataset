@@ -22,5 +22,5 @@ The Backpropagation Algorithm is well-suited for problems where:
 ---
 **Navigation**
 [[L7B-Slide-37|Previous ← Training Set Size]]
-[[L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
+[[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-39|Next → References]]
