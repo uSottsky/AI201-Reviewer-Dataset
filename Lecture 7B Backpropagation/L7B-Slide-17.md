@@ -1,7 +1,7 @@
 # Backpropagation Algorithm Derivation
 
 
-# $\frac{\partial\mathcal{E}(n)}{\partial w_{ji}(n)}=\frac{\partial\mathcal{E}(n)}{\partial e_{j}(n)}\frac{\partial e_{j}(n)}{\partial y_{j}(n)}\frac{\partial y_{j}(n)}{\partial v_{j}(n)}\frac{\partial v_{j}(n)}{\partial w_{ji}(n)}$
+# $$\frac{\partial\mathcal{E}(n)}{\partial w_{ji}(n)}=\frac{\partial\mathcal{E}(n)}{\partial e_{j}(n)}\frac{\partial e_{j}(n)}{\partial y_{j}(n)}\frac{\partial y_{j}(n)}{\partial v_{j}(n)}\frac{\partial v_{j}(n)}{\partial w_{ji}(n)}$$
 
 For output neuron j:
 * net internal activity:

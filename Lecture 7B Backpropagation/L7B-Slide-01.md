@@ -11,6 +11,6 @@ The Backpropagation Algorithm
 
 ---
 **Navigation**
-[[L3B-Slide-25|← Previous Lecture (Lecture 7A - Slide 40)]]
+[[L7B-Slide-25|← Previous Lecture (Lecture 7A - Slide 40)]]
 [[AI 201 - Artificial Intelligence/Lecture 7B Backpropagation/L7B-0-Table-of-Contents|↑ Lecture 7B TOC]]
 [[L7B-Slide-02|Next → Error-Correction Learning]]
